@@ -1,0 +1,13 @@
+body{
+	background: #F8E8A6;
+}
+h1, p, footer{
+	text-align: center;
+}
+a, footer{
+	margin: 10px;
+}
+img{
+	display: block;
+	margin: 0 auto;
+}
